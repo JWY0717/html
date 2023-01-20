@@ -1,0 +1,11 @@
+8{
+    font-family:"맑은 고딕"
+}
+
+
+header,footer
+         { padding: 15px;
+            background-color: rgba(42, 134, 113, 0.571);
+            text-align: center;
+            color: white;
+        }
